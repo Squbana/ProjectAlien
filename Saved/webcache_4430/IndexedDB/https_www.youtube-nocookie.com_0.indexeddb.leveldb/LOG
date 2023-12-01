@@ -1,0 +1,6 @@
+2023/08/15-12:08:04.364 47dc Creating DB D:/Projekty Unreal/Alien Resurrection/ProjectAlien/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/08/15-12:08:04.372 47dc Reusing MANIFEST D:/Projekty Unreal/Alien Resurrection/ProjectAlien/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/15-12:09:06.533 4ee8 Level-0 table #5: started
+2023/08/15-12:09:06.555 4ee8 Level-0 table #5: 1167 bytes OK
+2023/08/15-12:09:06.559 4ee8 Delete type=0 #3
+2023/08/15-12:09:06.559 4ee8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
